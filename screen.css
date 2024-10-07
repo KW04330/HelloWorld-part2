@@ -13,7 +13,7 @@ main {
 }
 
 .details {
-    display flex; 
+    display: flex; 
 }
 
 img {
