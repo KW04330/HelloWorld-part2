@@ -17,6 +17,7 @@ main {
     background-size: auto;
     background-position: auto;
     border-radius: 20px;
+    height: 400px
 }
 
 .details {
