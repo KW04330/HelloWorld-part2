@@ -3,6 +3,7 @@
 body {
     background: #c7c7c7;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
     border-top: 15px solid #424242;
     margin: 0 auto;
     color:rgb(255, 255, 255)
@@ -70,7 +71,6 @@ h1 {
 
 h2 {
     margin: 0 0 5px 0;
-    font-size: 3em;
 }
 
 p{
