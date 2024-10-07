@@ -33,7 +33,15 @@ main {
     margin-top: 25px;
 }
 
-.detail section.with-code {
+.details section p {
+    margin: 20px;
+}
+
+.details section h2 {
+    margin: 20px;
+}
+
+.details section.with-code {
     padding: 0;
 }
 
