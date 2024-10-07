@@ -21,19 +21,23 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #769ba0;
-    padding: 20px;
+    padding: 30px;
     border-radius: 20px;
+    margin-top: 25px;
 }
 
 img {
-    width: 100%;
+    width: auto;
+    height: auto;
+    border-radius: 20px;
 } 
 
 h2 {
-    margin: 0;
+    margin: 0 0 20px 0;
 }
 
 p{
     margin: 0;
+    line-height: 1.5cm;
 }
 
