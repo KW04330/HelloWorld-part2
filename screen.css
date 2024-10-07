@@ -12,6 +12,10 @@ main {
     width: 900px;
 }
 
+.details {
+    display flex; 
+}
+
 img {
     width: auto;
 } 
