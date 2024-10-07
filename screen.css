@@ -17,7 +17,7 @@ main {
     background-size: cover;
     background-position: center;
     border-radius: 20px;
-    height: 400px
+    height: 450px
 }
 
 .details {
@@ -44,6 +44,6 @@ h2 {
 
 p{
     margin: 0;
-    line-height: 1.4cm;
+    line-height: 0.5cm;
 }
 
