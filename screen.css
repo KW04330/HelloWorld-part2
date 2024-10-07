@@ -41,6 +41,7 @@ img {
 h1 {
     background-image: url('Icon.png');
     background-repeat: no-repeat;
+    background-size: auto;
     font-size: 3cm;
 }
 
