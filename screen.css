@@ -16,7 +16,6 @@ main {
 .masthead {
     background-image: url('Computer.jpg');
     background-size: cover;
-    background-position: center;
     border-radius: 20px;
     height: 500px
 }
