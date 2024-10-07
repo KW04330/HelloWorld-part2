@@ -45,7 +45,8 @@ div.code-copy {
 div.code-html {
     padding: 25px;
     background: #424242;
-    
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
