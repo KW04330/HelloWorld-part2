@@ -42,6 +42,7 @@ h1 {
     background-image: url('Icon.png');
     background-repeat: no-repeat;
     background-size: auto;
+    background-position: center left;
     font-size: 3cm;
     padding-left: 50px;
 }
