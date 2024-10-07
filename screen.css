@@ -16,7 +16,7 @@ main {
     background-image: url('Computer.jpg');
     background-size: cover;
     background-position: center;
-    height: 200px;
+    height: auto;
     border-radius: 20px;
 }
 
