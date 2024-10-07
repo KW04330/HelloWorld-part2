@@ -12,6 +12,11 @@ main {
     width: 880px;
 }
 
+.masthead {
+    background-image: url('Computer.jpg');
+    height: 200px;
+}
+
 .details {
     display: flex;
     gap: 25px;
@@ -28,16 +33,14 @@ main {
 
 img {
     width: auto;
-    height: auto;
-    border-radius: 20px;
 } 
 
 h2 {
-    margin: 0 0 20px 0;
+    margin: 0 0 5px 0;
 }
 
 p{
     margin: 0;
-    line-height: 1.5cm;
+    line-height: 1cm;
 }
 
